@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-04-08T08:39:33.689386",
+    "startedAt": "2022-04-08T08:39:27.970518",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--mode=client",
+        "--port=5756"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/cjhutto/vaderSentiment.git",
+        "commit": "94fbd74594ac0714dfc0e55bd7415994b24020cf"
+    },
+    "email": "57173133+hplisiecki@users.noreply.github.com",
+    "root": "C:/Users/hplis/OneDrive/Documents/GitHub/vaderSentiment",
+    "host": "MSI",
+    "username": "hplis",
+    "executable": "C:\\Users\\hplis\\.conda\\envs\\main\\python.exe"
+}

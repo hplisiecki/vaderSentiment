@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 116/116 [00:37<00:00,  3.05it/s]
+Traceback (most recent call last):
+  File "C:\Users\hplis\.conda\envs\main\lib\site-packages\IPython\core\interactiveshell.py", line 3457, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-1d1b29bb7007>", line 227, in <module>
+    val_valence = val_valence.numpy()

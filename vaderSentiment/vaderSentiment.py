@@ -31,7 +31,7 @@ C_INCR = 0.733
 N_SCALAR = -0.74
 
 NEGATE = \
-    ["aint", "arent", "cannot", "cant", "couldnt", "darent", "didnt", "doesnt",
+    ["aint", "rent", "cannot", "cant", "couldnt", "darent", "didnt", "doesnt",
      "ain't", "aren't", "can't", "couldn't", "daren't", "didn't", "doesn't",
      "dont", "hadnt", "hasnt", "havent", "isnt", "mightnt", "mustnt", "neither",
      "don't", "hadn't", "hasn't", "haven't", "isn't", "mightn't", "mustn't",

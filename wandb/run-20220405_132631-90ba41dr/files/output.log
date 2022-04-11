@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 116/116 [00:34<00:00,  3.37it/s]
+Traceback (most recent call last):
+  File "C:\Users\hplis\.conda\envs\main\lib\site-packages\IPython\core\interactiveshell.py", line 3457, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-cbd0dafa5ce6>", line 237, in <module>
+    torch.save(model.state_dict(), 'models/english.pth')
+  File "C:\Users\hplis\.conda\envs\main\lib\site-packages\torch\serialization.py", line 376, in save
+    with _open_file_like(f, 'wb') as opened_file:
+  File "C:\Users\hplis\.conda\envs\main\lib\site-packages\torch\serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\hplis\.conda\envs\main\lib\site-packages\torch\serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
